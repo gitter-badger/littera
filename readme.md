@@ -1,5 +1,7 @@
 # Littera
 
+[![Join the chat at https://gitter.im/littera/littera](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/littera/littera?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/littera/littera.svg)](https://travis-ci.org/littera/littera)
 [![Total Downloads](https://poser.pugx.org/littera/littera/d/total.svg)](https://packagist.org/packages/littera/littera)
 [![License](https://poser.pugx.org/littera/littera/license.svg)](https://packagist.org/packages/littera/littera)
